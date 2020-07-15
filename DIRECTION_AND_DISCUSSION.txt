@@ -1,0 +1,2 @@
+TIMESTAMP     CODER           COMMENTS
+7-15-20       nitoy69         Initial states to deliver rally info to PATS w/Electoral Votes: PA (20), OH (18), NC (15), GA (16), FL (29), TX (38)
